@@ -11,7 +11,7 @@ Uncaps the bundle display and selection limit
 
 |Minecraft|ReplaceMe|
 |-|-|
-|1.21.2-1.21.11+|[1.0.0+1.21.2](https://ReplaceMe.com)|
+|1.21.2-1.21.11+|[1.0.0+1.21.2](https://cdn.modrinth.com/data/xfNdpIwR/versions/JaDaHR45/donthidebundles-1.0.0%2B1.21.2.jar)|
 
 ## Credits
 P3nguinMinecraft
