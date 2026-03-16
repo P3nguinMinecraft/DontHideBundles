@@ -1,0 +1,35 @@
+{
+	"schemaVersion": 1,
+	"id": "donthidebundles",
+	"version": "${version}",
+	"name": "Don't Hide Bundles",
+	"description": "Uncaps the bundle display and selection limit",
+	"authors": [
+        "P3nguinMinecraft"
+		],
+	"contact": {
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/donthidebundles/icon.png",
+	"environment": "*",
+	"entrypoints": {
+        "main": [
+
+        ],
+		"client": [
+            "com.donthidebundles.DontHideBundles"
+		]
+	},
+	"mixins": [
+        "donthidebundles.mixins.json"
+	],
+    "depends": {
+        "fabricloader": ">=${loader_version}",
+        "minecraft": ">=${minecraft_version}",
+        "java": ">=21"
+    },
+	"suggests": {
+		"another-mod": "*"
+	},
+	"accessWidener" : "donthidebundles.accesswidener"
+}
