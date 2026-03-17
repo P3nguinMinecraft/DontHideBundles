@@ -1,6 +1,10 @@
 # Don't Hide Bundles
 Uncaps the bundle display and selection limit
 
+The Vanilla limit is **12**, this mod uncaps it to always show all items
+
+Client side only, but works on most servers!
+
 <a href="https://modrinth.com/mod/dont-hide-bundles"><img alt="modrinth" height="40" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/available/modrinth_vector.svg"></a>
 
 # Images
