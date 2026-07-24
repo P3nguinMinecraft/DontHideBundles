@@ -16,7 +16,7 @@ Client side only, but works on most servers!
 |Minecraft|Don't Hide Bundles|
 |-|-|
 |1.21.2-1.21.11|[1.0.0+1.21.2](https://cdn.modrinth.com/data/xfNdpIwR/versions/JaDaHR45/donthidebundles-1.0.0%2B1.21.2.jar)|
-|26.1-26.1.2+|[1.1.0+26.1](https://cdn.modrinth.com/data/xfNdpIwR/versions/orYgXRqQ/donthidebundles-1.1.0%2B26.1.jar)|
+|26.1-26.2+|[1.1.0+26.1](https://cdn.modrinth.com/data/xfNdpIwR/versions/orYgXRqQ/donthidebundles-1.1.0%2B26.1.jar)|
 
 ## Credits
 P3nguinMinecraft
